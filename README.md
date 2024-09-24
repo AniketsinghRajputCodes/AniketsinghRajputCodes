@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AniketsinghRajputCodes
+- 👀 I’m passionate about data science, Python, and web development.
+- 🌱 Currently mastering Django, Machine Learning, and Data Visualization.
+- 💞️ Looking to collaborate on open-source projects and innovative tech solutions.
+- 📫 Reach me at [aniketsinghrajput810@gmail.com](mailto:aniketsinghrajput810@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love analyzing stock market trends and exploring global cultures!
