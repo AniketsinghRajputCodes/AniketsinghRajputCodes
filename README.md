@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AniketsinghRajputCodes
+- 👋 Hi, I’m Aniketsingh Rajput.
 - 👀 I’m passionate about data science, Python, and web development.
 - 🌱 Currently mastering Django, Machine Learning, and Data Visualization.
 - 💞️ Looking to collaborate on open-source projects and innovative tech solutions.
